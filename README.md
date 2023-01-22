@@ -1,1 +1,1 @@
-# cat-photo
+# Cat Photo
